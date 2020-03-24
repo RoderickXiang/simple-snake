@@ -1,0 +1,8 @@
+player	300
+player	250
+player	6050
+player	100
+player	150
+player	150
+player	150
+player	150
